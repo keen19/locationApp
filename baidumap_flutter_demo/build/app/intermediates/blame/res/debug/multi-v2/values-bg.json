@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "I:\\new\\baidumap_flutter_demo\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\keen1\\.gradle\\caches\\transforms-2\\files-2.1\\5116f6e02e1fbc66a53eb7208b24da92\\core-1.3.1\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

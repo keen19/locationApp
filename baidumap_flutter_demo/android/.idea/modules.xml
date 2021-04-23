@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2050547720/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-2050547720/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1920976372/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1920976372/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-135493509/android.share.iml" filepath="$PROJECT_DIR$/.idea/modules/-135493509/android.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-324012342/com.baidu.flutter_bmfmap.android.flutter_baidu_mapapi_map.iml" filepath="$PROJECT_DIR$/.idea/modules/-324012342/com.baidu.flutter_bmfmap.android.flutter_baidu_mapapi_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-145291220/com.baidu.flutter_bmfsearch.android.flutter_baidu_mapapi_search.iml" filepath="$PROJECT_DIR$/.idea/modules/-145291220/com.baidu.flutter_bmfsearch.android.flutter_baidu_mapapi_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1322340267/com.baidu.mapapi.base.android.flutter_baidu_mapapi_base.iml" filepath="$PROJECT_DIR$/.idea/modules/-1322340267/com.baidu.mapapi.base.android.flutter_baidu_mapapi_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/317293599/com.baidu.mapapi.utils.android.flutter_baidu_mapapi_utils.iml" filepath="$PROJECT_DIR$/.idea/modules/317293599/com.baidu.mapapi.utils.android.flutter_baidu_mapapi_utils.iml" />
+    </modules>
+  </component>
+</project>

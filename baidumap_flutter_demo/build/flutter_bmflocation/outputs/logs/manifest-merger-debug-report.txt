@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:2:5-54
+		INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+		INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:4:5-97
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:6:5-95
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:8:5-92
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:10:5-95
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:12:5-92
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:14:5-91
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:16:5-97
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.INTERNET
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:18:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:21:5-85
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:21:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:23:22-65
+application
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:24:5-30:19
+service#com.baidu.location.f
+ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:26:9-29:49
+	android:process
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:29:13-38
+	android:enabled
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml:27:13-48
+uses-sdk
+INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+		ADDED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml
+		INJECTED from I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_bmflocation-1.0.4\android\src\main\AndroidManifest.xml

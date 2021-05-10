@@ -1,4 +1,4 @@
-#Wed Mar 24 22:16:47 CST 2021
-base.0=I\:\\new\\baidumap_flutter_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Mon May 10 14:02:32 CST 2021
+base.0=E\:\\bysj\\locationApp\\baidumap_flutter_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

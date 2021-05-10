@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\new\\baidumap_flutter_demo\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\bysj\\locationApp\\baidumap_flutter_demo\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\keen1\\.gradle\\caches\\transforms-2\\files-2.1\\d707f3e9a29f144d6928b9c9f166484f\\media-1.1.0\\res\\values\\values.xml",
@@ -21,14 +21,14 @@
                     }
                 },
                 {
-                    "source": "I:\\new\\baidumap_flutter_demo\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\bysj\\locationApp\\baidumap_flutter_demo\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
+                        "startOffsets": "57",
                         "endLines": "6",
                         "endColumns": "12",
-                        "endOffsets": "347"
+                        "endOffsets": "353"
                     },
                     "to": {
                         "startLines": "86",

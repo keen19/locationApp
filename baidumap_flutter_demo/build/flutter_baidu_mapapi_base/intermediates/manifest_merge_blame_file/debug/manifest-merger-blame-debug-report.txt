@@ -3,6 +3,6 @@
 3    package="com.baidu.mapapi.base" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->I:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_baidu_mapapi_base-2.0.1\android\src\main\AndroidManifest.xml
+5-->E:\flutter\.pub-cache\hosted\pub.flutter-io.cn\flutter_baidu_mapapi_base-2.0.1\android\src\main\AndroidManifest.xml
 6
 7</manifest>
